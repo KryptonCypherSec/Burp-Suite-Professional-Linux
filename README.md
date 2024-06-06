@@ -73,7 +73,7 @@ I'll explain step by step what you should do right now!
 
 ![photo_2024-06-06_14-10-56](https://github.com/KryptonCypherSec/Burp-Suite-Professional-Linux/assets/171511773/a4b50906-8320-4721-839b-006150193ded)  
 
-*  After that copy the Activation Response and paste it in the Burp Suite and hit **Next** and then hit **Finish** button.Congratulations! you have done it!  
+*  After that copy the **Activation Response** and paste it in the Burp Suite and hit **Next** and then hit **Finish** button.Congratulations! you have done it!  
   
 **Second Step**
 
