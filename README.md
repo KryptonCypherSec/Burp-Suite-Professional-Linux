@@ -13,16 +13,17 @@ Let me explain the work-flow first. We will donwload the official version of Bur
 Let's get started:  
 
 Before we get started with main steps,I'm kindly ask to:  
+*  Run your terminal as Root or only type `sudo -i` or `sudo su`, to prevent encountering errors.
+*  
 *  Uninstall your Community Edition of Burp Suite using these commands:  
 ```
-sudo apt-get remove burpsuite
-sudo apt-get autoremove
-sudo apt update
-```  
-*  Run your terminal as Root or only type `sudo -i` or `sudo su`, to prevent encountering errors.  
+apt-get remove burpsuite
+apt-get autoremove
+apt update
+```   
 
 **First Step**
-*  **1**.The first thing that you should do is to clone this repository in a directory like `/home/user/Desktop` or anywhere that you want.  
+*  **1**.The first thing that you should do is to `clone` this repository in a directory like `/home/user/Desktop` or anywhere that you want.  
 
 *  **2**.Then you should download the Burp Suite professional `.jar` file from official site: [Burp Suite Professional](https://portswigger.net/burp/releases).  
 
