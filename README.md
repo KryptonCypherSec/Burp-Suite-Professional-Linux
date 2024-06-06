@@ -1,6 +1,6 @@
 # Burp-Suite-Professional-Linux
-In the repository I'll show you how to install Burp Suite Professional on your unix based operating system.
-![photo_2024-06-06_12-51-37](https://github.com/KryptonCypherSec/Burp-Suite-Professional-Linux/assets/171511773/834de21c-1451-4983-9bc6-cd1045423206)
+In the repository I'll show you how to install Burp Suite Professional on your unix based operating system.  
+![photo_2024-06-06_12-51-37](https://github.com/KryptonCypherSec/Burp-Suite-Professional-Linux/assets/171511773/834de21c-1451-4983-9bc6-cd1045423206)  
 [*]DISCLAIMER: I'm not responsible for any OS or Security issues that may occur. So please read carefully and do it step by step at your own risk.
 Let's get started:
 the first thing that you should do is to clone this repository in a directory like `/home/user/Desktop` or anywhere that you want.
